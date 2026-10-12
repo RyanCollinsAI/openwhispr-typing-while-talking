@@ -1,0 +1,47 @@
+[
+ {
+  "name": "whisper-window-streaming",
+  "path": "src/helpers/audioManager.js",
+  "file": "files-1.7.6/src/helpers/audioManager.js",
+  "base_sha256": "87d9e9a9ecbd9eccab335e4390a3f1c9688c89ce1a376479873f47556d3b47a2",
+  "patched_sha256": "859ffc5b2ddb071960a6f6e78f70bafd234ac061606b3946c0c47a0cb19483ff",
+  "base_size": 140104,
+  "patched_size": 141416
+ },
+ {
+  "name": "whisper-window-streaming+whisper-cleanup+voice-tray+whisper-halluc-clip",
+  "path": "src/helpers/ipcHandlers.js",
+  "file": "files-1.7.6/src/helpers/ipcHandlers.js",
+  "base_sha256": "c30cc087c10d2bf3d5c4718a2b5d81c2d0fb418d29eadd5fdbfed10b0f491354",
+  "patched_sha256": "9c7bb3ff61ed33c8771dd0be917bce07947d042059f6c7b4fb4a31d309774a26",
+  "base_size": 348649,
+  "patched_size": 362116
+ },
+ {
+  "name": "whisper-window-streaming-renderer+voice-orb",
+  "path": "src/dist/assets/index-Bj5ExvhP.js",
+  "file": "files-1.7.6/src/dist/assets/index-Bj5ExvhP.js",
+  "base_sha256": "728534236215756fcfae03a8b1ddb0c472c59527bd85ddfc699596cef8db8afd",
+  "patched_sha256": "ea02282cca0cdf0a1e3c51b7ac10e3b00a6222772c1d0e7590f251153db3431e",
+  "base_size": 355873,
+  "patched_size": 357573
+ },
+ {
+  "name": "voice-tray",
+  "path": "src/helpers/tray.js",
+  "file": "files-1.7.6/src/helpers/tray.js",
+  "base_sha256": "fd255ea7f7db19dfd3d5076390cb127a8eb8f9bd36de42ea5baa95f97d943660",
+  "base_size": 9429,
+  "patched_sha256": "6e8937f06d462c21e6bf7d24589ae451cd399c3f4a99ae525e48981258f4c113",
+  "patched_size": 13197
+ },
+ {
+  "name": "whisper-halluc-thresholds",
+  "path": "src/helpers/whisperServer.js",
+  "file": "files-1.7.6/src/helpers/whisperServer.js",
+  "base_sha256": "7c0689f21b75f6b533105f78805e1bdd1bcef26185d2accde8af9bd97f1dfd90",
+  "patched_sha256": "e7c1b68814ade3d988745f6df254a06c68c7802cb94f1ac4b2c68e0b6145a340",
+  "base_size": 32785,
+  "patched_size": 34034
+ }
+]
