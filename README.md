@@ -17,8 +17,6 @@ That cannot run on other systems, and the scripts stop with a message if you try
 **The latest OpenWhispr release (1.10.2) is not supported yet.**
 Run against another version, the patcher skips every patch it cannot match and logs a warning.
 
-This repo is a private draft.
-
 ## What it does
 
 Normally OpenWhispr waits until you stop talking, then turns the whole recording into text.
